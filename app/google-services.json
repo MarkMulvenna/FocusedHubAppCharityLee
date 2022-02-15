@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211852351098",
+    "project_id": "focusedhubapp",
+    "storage_bucket": "focusedhubapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211852351098:android:4740bbeb0169bddd440dc3",
+        "android_client_info": {
+          "package_name": "com.example.focusedhubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211852351098-g7t5j6o6fe9gdq83qn41vkel9oor8rsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqUHMg6zda51LnwPfOQ1lf_05QrM3vbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211852351098-g7t5j6o6fe9gdq83qn41vkel9oor8rsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
