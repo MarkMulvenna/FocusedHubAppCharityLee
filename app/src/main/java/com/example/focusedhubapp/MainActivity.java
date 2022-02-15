@@ -376,4 +376,8 @@ private void displayUserData(User user){
             Toast.makeText(this, userData, Toast.LENGTH_LONG).show();
 
 }
+    @Override
+    public void onBackPressed() {
+        startActivity(new Intent(MainActivity.this, PinControl.class));
+    }
 }

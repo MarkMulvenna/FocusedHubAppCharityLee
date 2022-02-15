@@ -18,16 +18,15 @@
         android:id="@+id/textView6"
         android:layout_width="407dp"
         android:layout_height="113dp"
-        android:layout_marginStart="1dp"
-        android:layout_marginLeft="1dp"
         android:layout_marginTop="31dp"
         android:text="To exit the registration screen a pin code is required, please enter the pin below, failed attempts will result in a return to the registration screen."
         android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnSubmitPin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="144dp"
@@ -40,13 +39,14 @@
     <EditText
         android:id="@+id/txtPinCode"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:layout_marginStart="102dp"
         android:layout_marginLeft="102dp"
         android:layout_marginTop="33dp"
         android:ems="10"
         android:inputType="numberPassword"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

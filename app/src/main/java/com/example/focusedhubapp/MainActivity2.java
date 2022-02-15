@@ -123,4 +123,11 @@ public class MainActivity2 extends AppCompatActivity implements View.OnClickList
         });
 
     }
+
+    @Override
+    public void onBackPressed() {
+        startActivity(new Intent(MainActivity2.this, PinControl.class));
+    }
+
+
 }

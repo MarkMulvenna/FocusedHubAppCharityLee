@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/activity_forgot_password.xml" value="0.18541666666666667" />
         <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
-        <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/activity_main2.xml" value="0.358695652173913" />
+        <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/activity_pin_control.xml" value="0.18541666666666667" />
         <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/activity_register_user.xml" value="0.358695652173913" />
+        <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/fragment_home.xml" value="0.18541666666666667" />
+        <entry key="..\:/Compressed/FocusedHubApp - Copy/FocusedHubApp - Copy/app/src/main/res/layout/fragment_notifications.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>
