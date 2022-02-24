@@ -38,7 +38,7 @@ public class PinControl extends AppCompatActivity {
                        builder.setPositiveButton("Switch Accounts", new DialogInterface.OnClickListener() {
                            @Override
                            public void onClick(DialogInterface dialogInterface, int i) {
-
+                                startActivity(new Intent(PinControl.this, MainActivity2.class));
                            }
 
                        });
